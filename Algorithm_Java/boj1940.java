@@ -18,17 +18,13 @@ public class boj1940 {
         int start = 0;
         int end = 1;
         int result = 0;
-        int sum = arr[start];
 
         if (n == 1) {
             System.out.println(0);
         }
         else {
-            //System.out.println("들어옴");
             while (start < n-1) {
-                //System.out.println("start = " + start +'\t'+"end = " + end);
-                //System.out.println("start = " + start);
-                if (arr[start] + arr[end] < m) {
+              if (arr[start] + arr[end] < m) {
                     end++;
                     if (end == n) {
                         start++;
