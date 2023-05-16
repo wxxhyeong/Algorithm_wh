@@ -9,3 +9,5 @@
 |주몽| 실버4| [문제](https://www.acmmicpc.net/problem/1940)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1940.-%EC%A3%BC%EB%AA%BD)|
 |백만장자 프로젝트| D2 | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1)|[풀이](https://velog.io/@wxxhyeong/swea-1859.-%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D)|
 |좋다|골드5|[문제](https://www.acmicpc.net/problem/1253)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1253.-%EC%A2%8B%EB%8B%A4)|
+|스택수열|실버2|[문제](https://www.acmicpc.net/problem/1874)||
+|오큰수|골드4|[문제](https://acmicpc.net/problem/17298)||
