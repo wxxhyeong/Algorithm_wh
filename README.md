@@ -11,3 +11,4 @@
 |좋다|골드5|[문제](https://www.acmicpc.net/problem/1253)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1253.-%EC%A2%8B%EB%8B%A4)|
 |스택수열|실버2|[문제](https://www.acmicpc.net/problem/1874)||
 |오큰수|골드4|[문제](https://acmicpc.net/problem/17298)||
+|연결요소의 개수 구하기|실버2|[문제](https://www.acmicpc.net/problem/11724)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-11724.-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0)|
