@@ -9,6 +9,7 @@
 |주몽| 실버4| [문제](https://www.acmmicpc.net/problem/1940)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1940.-%EC%A3%BC%EB%AA%BD)|
 |백만장자 프로젝트| D2 | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1)|[풀이](https://velog.io/@wxxhyeong/swea-1859.-%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D)|
 |좋다|골드5|[문제](https://www.acmicpc.net/problem/1253)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1253.-%EC%A2%8B%EB%8B%A4)|
-|스택수열|실버2|[문제](https://www.acmicpc.net/problem/1874)||
-|오큰수|골드4|[문제](https://acmicpc.net/problem/17298)||
+|스택수열|실버2|[문제](https://www.acmicpc.net/problem/1874)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1874.-%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4-%EC%9E%90%EB%B0%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC)|
+|오큰수|골드4|[문제](https://acmicpc.net/problem/17298)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-17298.-%EC%98%A4%ED%81%B0%EC%88%98)|
 |연결요소의 개수 구하기|실버2|[문제](https://www.acmicpc.net/problem/11724)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-11724.-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0)|
+|신기한 소수|골드5|[문제](https://www.acmicpc.net/problem/2023)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-2023.-%EC%8B%A0%EA%B8%B0%ED%95%9C-%EC%86%8C%EC%88%98)|
