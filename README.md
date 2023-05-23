@@ -17,3 +17,4 @@
 |연결요소의 개수 구하기|실버2|[문제](https://www.acmicpc.net/problem/11724)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-11724.-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0)|
 |신기한 소수|골드5|[문제](https://www.acmicpc.net/problem/2023)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-2023.-%EC%8B%A0%EA%B8%B0%ED%95%9C-%EC%86%8C%EC%88%98)|
 |DFS와 BFS 프로그램|실버2|[문제](https://www.acmicpc.net/problem/1260)||
+|미로 탐색하기|실버1|[문제](https://www.acmicpc.net/problem/2178)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-2178.-%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0)|
