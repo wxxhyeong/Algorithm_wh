@@ -19,3 +19,4 @@
 |DFS와 BFS 프로그램|실버2|[문제](https://www.acmicpc.net/problem/1260)||
 |미로 탐색하기|실버1|[문제](https://www.acmicpc.net/problem/2178)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-2178.-%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0)|
 |트리의 지름|골드2|[문제](https://www.acmicpc.net/problem/1167)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1167.-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)|
+|k번째 수|골드2|[문제](https://www.acmicpc.net/problem/1300)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1300.-k%EB%B2%88%EC%A7%B8-%EC%88%98)|
