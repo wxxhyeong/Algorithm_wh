@@ -21,3 +21,4 @@
 |트리의 지름|골드2|[문제](https://www.acmicpc.net/problem/1167)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1167.-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)|
 |기타 레슨|실버1|[문제](https://www.acmicpc.net/problem/2343)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-2343.-%EA%B8%B0%ED%83%80-%EB%A0%88%EC%8A%A8)|
 |k번째 수|골드2|[문제](https://www.acmicpc.net/problem/1300)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1300.-k%EB%B2%88%EC%A7%B8-%EC%88%98)|
+|동전개수의 최솟값 구하기|실버4|[문제](https://www.acmicpc.net/problem/11047)||
