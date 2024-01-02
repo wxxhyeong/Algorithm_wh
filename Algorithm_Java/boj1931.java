@@ -43,7 +43,7 @@ public class boj1931 {
         }
 
         System.out.println(answer);
-        
+
     }
 
 }
