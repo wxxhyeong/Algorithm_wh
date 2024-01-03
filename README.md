@@ -22,3 +22,5 @@
 |기타 레슨|실버1|[문제](https://www.acmicpc.net/problem/2343)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-2343.-%EA%B8%B0%ED%83%80-%EB%A0%88%EC%8A%A8)|
 |k번째 수|골드2|[문제](https://www.acmicpc.net/problem/1300)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1300.-k%EB%B2%88%EC%A7%B8-%EC%88%98)|
 |동전개수의 최솟값 구하기|실버4|[문제](https://www.acmicpc.net/problem/11047)||
+|회의실 배정하기|실버1|[문제](https://www.acmicpc.net/problem/1931)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1931.-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95%ED%95%98%EA%B8%B0)|
+|잃어버린 괄호|실버2|[문제](https://www.acmicpc.net/problem/1531)|[풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1541.-%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0-%EA%B4%84%ED%98%B8)|
