@@ -1,28 +1,21 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.util.*;
 
-public class Main {
+public class boj1325 {
 
     static ArrayList<Integer>[] arr;
-    static int[] answer1;
-    static boolean[] visited;
     static int N;
-    static int M;
-
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer stk = new StringTokenizer(br.readLine());
 
         N = Integer.parseInt(stk.nextToken());
-        M = Integer.parseInt(stk.nextToken());
+        int M = Integer.parseInt(stk.nextToken());
         arr = new ArrayList[N + 1];
-        answer1 = new int[N + 1];
+        int[] answer = new int[N + 1];
 
         for (int i = 1; i <= N; i++) {
             arr[i] = new ArrayList<>();
@@ -34,21 +27,20 @@ public class Main {
             int A = Integer.parseInt(stk.nextToken());
             int B = Integer.parseInt(stk.nextToken());
 
-            arr[A].add(B);
+            arr[B].add(A);
         }
 
         for (int i = 1; i <= N; i++) {
-            visited = new boolean[N+1];
-            bfs(i);
+            answer[i] = bfs(i);
         }
 
         int maxVal = 0;
-        for (int i = 1; i <= N; i++){
-            maxVal = Math.max(maxVal, answer1[i]);
+        for (int i : answer) {
+            maxVal = Math.max(maxVal, i);
         }
 
-        for (int i = 1; i <= N; i++) {
-            if (answer1[i] == maxVal) {
+        for (int i = 1; i < N + 1; i++) {
+            if (answer[i] == maxVal) {
                 System.out.print(i + " ");
             }
         }
@@ -56,22 +48,33 @@ public class Main {
     }
 
     // bfs 에서 컴퓨터가 해킹할 수 있는 컴퓨터의 수를 return
-    static public void bfs(int idx) {
-        Queue<Integer> dq = new LinkedList<>();
-        dq.add(idx);
+    static public int bfs(int idx) {
+        Deque<Integer> dq = new LinkedList<>();
+        boolean[] visited = new boolean[N + 1];
+        int cnt = 0;
         visited[idx] = true;
 
+        dq.add(idx);
 
         while (!dq.isEmpty()) {
-            int a = dq.poll();
-            for (int i : arr[a]) {
+            int a = dq.pollFirst();
+            /* if (!visited[a]) {
+                visited[a] = true;
+                cnt++;
+                for (Integer i : arr[a]) {
+                    dq.add(i);
+                }
+            }
+             */
+            for (Integer i : arr[a]) {
                 if(!visited[i]){
                     visited[i] = true;
-                    answer1[i]++;
                     dq.add(i);
-
+                    cnt++;
                 }
             }
         }
+
+        return cnt;
     }
 }
