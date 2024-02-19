@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class temp {
 
     static ArrayList<Integer>[] arr;
     static int[] answer1;
